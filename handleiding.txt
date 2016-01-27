@@ -1,1 +1,2 @@
 Dit is de handleiding voor dummieees
+Dit is de handleiding van git
