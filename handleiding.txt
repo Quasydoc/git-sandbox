@@ -1,1 +1,1 @@
-Dit is de handleiding
+Dit is de handleiding van git
